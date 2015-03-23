@@ -1,2 +1,2 @@
 # mustached-batman
-A Rainmeter skin I'm fiddling with.
+A suite of Rainmeter skins I'm making.
